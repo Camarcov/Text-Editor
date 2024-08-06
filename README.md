@@ -16,7 +16,7 @@ I made this to practice using service workers and bundling for webpacks.
 
 ## Installation
 
-Clone the repository, then in the main folder run `npm i` followed by `npm start`
+Clone the repository, then in the main folder run `npm i` followed by `npm run build` and `npm start`
 
 ## Usage
 
